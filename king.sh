@@ -1,3 +1,7 @@
+#MauRecode..??
+#RecodeTakAkanMembuatmuMenjadiProgramer
+#SemogaYangRecodeToolsIniKenaAzabSampai7Turunan..Aminn..!!
+
 clear
 echo
 python2 2020.py
