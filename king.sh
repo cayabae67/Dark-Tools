@@ -1,9 +1,5 @@
--*- coding: utf-8 -*-
-#MauRecode..??
-#RecodeTakAkanMembuatmuMenjadiProgramer
-#SemogaYangRecodeToolsIniKenaAzabSampai7Turunan..Aminn..!!
 
-import os, sys,
+
 clear
 echo
 python2 2020.py
